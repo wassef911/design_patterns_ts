@@ -37,17 +37,17 @@ class ComponentWithBackReference {
     // will result in error because of circular reference
     //const p2 = JSON.parse(JSON.stringify(p1));
     if (p1.primitive === p2.primitive)
-        console.log('Primitive field values have been carried over to a clone. Yay!');
+        console.log('Primitive field values have been carried over to a clone!');
 
     if (p1.component !== p2.component)
-        console.log('Simple component has been cloned. Yay!');
+        console.log('Simple component has been cloned!');
 
 
     if (p1.circularReference !== p2.circularReference)
-        console.log('Component with back reference has been cloned. Yay!');
+        console.log('Component with back reference has been cloned!');
 
 
     if (p1.circularReference.prototype !== p2.circularReference.prototype)
-        console.log('Component with back reference is linked to the clone. Yay!');
+        console.log('Component with back reference is linked to the clone!');
 
 })()
