@@ -4,6 +4,7 @@
     "module":"commonjs",
     "lib": ["es6"],                     
     "allowJs": true,
+    "strictPropertyInitialization": false,
     "rootDir": "src",
     "strict": true,         
     "noImplicitAny": true,
