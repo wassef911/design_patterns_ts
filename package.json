@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "prototype": "ts-node src/Prototype/index.ts"
+    "prototype": "ts-node src/Prototype/index.ts",
+    "singleton": "ts-node src/Singleton/index.ts"
   },
   "author": "Wassef Ben Ahmed",
   "license": "ISC",

@@ -1,5 +1,7 @@
 Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 
+**Identification:** The prototype can be easily recognized by a clone or copy methods, etc.
+
 #### Problem
 
 Copying an object “from the outside” isn’t always possible.
