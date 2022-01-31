@@ -61,6 +61,6 @@ You can test each implementation by simply running it as a script, example:
 - [ ] Composite
 - [ ] Decorator
 - [ ] Facade
-- [ ] Singleton
-- [x] Creational
+- [x] Singleton
+- [ ] Creational
 - [ ] Structural
