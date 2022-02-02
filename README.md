@@ -55,8 +55,9 @@ You can test each implementation by simply running it as a script, example:
 ## Roadmap
 
 - [x] Prototype
-- [x] Facade
 - [x] Singleton
+- [x] Facade
+- [x] Factory
 - [ ] Flyweight
 - [ ] Bridge
 - [ ] Composite
