@@ -57,11 +57,11 @@ You can test each implementation by simply running it as a script, example:
 
 - [x] Prototype
 - [x] Facade
+- [x] Singleton
 - [ ] Flyweight
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
 - [ ] Facade
-- [x] Singleton
 - [ ] Creational
 - [ ] Structural
