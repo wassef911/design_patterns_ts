@@ -6,7 +6,7 @@
     "prototype": "ts-node src/Prototype/index.ts",
     "singleton": "ts-node src/Singleton/index.ts",
     "facade": "ts-node src/Facade/index.ts",
-    "factoryMethod": "ts-node src/FactoryMethod/index.ts"
+    "factoryMethod": "ts-node src/FactoryMethod/src/index.ts"
   },
   "author": "Wassef Ben Ahmed",
   "license": "ISC",
