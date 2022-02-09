@@ -58,8 +58,8 @@ You can test each implementation by simply running it as a script, example:
 - [x] Singleton
 - [x] Facade
 - [x] FactoryMethod
+- [x] Bridge
 - [ ] Flyweight
-- [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
 - [ ] Facade
