@@ -59,9 +59,9 @@ You can test each implementation by simply running it as a script, example:
 - [x] Facade
 - [x] FactoryMethod
 - [x] Bridge
+- [x] Decorator
 - [ ] Flyweight
 - [ ] Composite
-- [ ] Decorator
 - [ ] Facade
 - [ ] Creational
 - [ ] Structural
