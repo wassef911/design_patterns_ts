@@ -60,6 +60,7 @@ You can test each implementation by simply running it as a script, example:
 - [x] FactoryMethod
 - [x] Bridge
 - [x] Decorator
+- [x] Adapter
 - [ ] Flyweight
 - [ ] Composite
 - [ ] Facade

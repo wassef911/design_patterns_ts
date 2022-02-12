@@ -8,7 +8,8 @@
     "facade": "ts-node src/Facade/index.ts",
     "factoryMethod": "ts-node src/FactoryMethod/src/index.ts",
     "bridge": "ts-node src/Bridge/src/index.ts",
-    "decorator": "ts-node src/Decorator/index.ts"
+    "decorator": "ts-node src/Decorator/index.ts",
+    "adapter": "ts-node src/Adapter/index.ts"
   },
   "author": "Wassef Ben Ahmed",
   "license": "ISC",
