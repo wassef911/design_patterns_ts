@@ -51,16 +51,18 @@ If the installation was successful, you should be able to run the following comm
 You can test each implementation by simply running it as a script, example:
 
     $ npm run prototype
+  or
+    $ yarn prototype
 
 ## Roadmap
-
-- [x] Prototype
-- [x] Singleton
+- [x] Adapter
+- [x] Bridge
+- [x] Builder
+- [x] Decorator
 - [x] Facade
 - [x] FactoryMethod
-- [x] Bridge
-- [x] Decorator
-- [x] Adapter
+- [x] Prototype
+- [x] Singleton
 - [ ] Flyweight
 - [ ] Composite
 - [ ] Facade

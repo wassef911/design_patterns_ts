@@ -1,15 +1,16 @@
 {
   "name": "design_patterns_ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "Common Design Patterns in TypeScript",
   "scripts": {
-    "prototype": "ts-node src/Prototype/index.ts",
-    "singleton": "ts-node src/Singleton/index.ts",
+    "adapter": "ts-node src/Adapter/index.ts",
+    "bridge": "ts-node src/Bridge/src/index.ts",
+    "builder": "ts-node src/Builder/src/index.ts",
+    "decorator": "ts-node src/Decorator/index.ts",
     "facade": "ts-node src/Facade/index.ts",
     "factoryMethod": "ts-node src/FactoryMethod/src/index.ts",
-    "bridge": "ts-node src/Bridge/src/index.ts",
-    "decorator": "ts-node src/Decorator/index.ts",
-    "adapter": "ts-node src/Adapter/index.ts"
+    "prototype": "ts-node src/Prototype/index.ts",
+    "singleton": "ts-node src/Singleton/index.ts"
   },
   "author": "Wassef Ben Ahmed",
   "license": "ISC",
@@ -18,5 +19,8 @@
     "nodemon": "^2.0.15",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "yarn": "^1.22.17"
   }
 }
