@@ -65,6 +65,3 @@ You can test each implementation by simply running it as a script, example:
 - [x] Singleton
 - [ ] Flyweight
 - [ ] Composite
-- [ ] Facade
-- [ ] Creational
-- [ ] Structural
