@@ -10,10 +10,11 @@
     "facade": "ts-node src/Facade/index.ts",
     "factoryMethod": "ts-node src/FactoryMethod/src/index.ts",
     "prototype": "ts-node src/Prototype/index.ts",
+    "proxy": "ts-node src/Proxy/index.ts",
     "singleton": "ts-node src/Singleton/index.ts"
   },
   "author": "Wassef Ben Ahmed",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.13",
     "nodemon": "^2.0.15",
