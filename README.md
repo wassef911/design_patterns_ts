@@ -53,7 +53,8 @@ You can test each implementation by simply running it as a script, example:
     $ npm run prototype
 
 or
-$ yarn prototype
+
+    $ yarn prototype
 
 ## Roadmap
 
